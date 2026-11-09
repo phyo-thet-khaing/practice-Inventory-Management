@@ -1,0 +1,11 @@
+CREATE TABLE image (
+    id BIGINT AUTO_INCREMENT PRIMARY KEY,
+
+    file_name VARCHAR(255) NOT NULL,
+
+    file_path VARCHAR(500) NOT NULL,
+
+    hash VARCHAR(64) NOT NULL UNIQUE,
+
+    created_at TIMESTAMP NOT NULL
+);

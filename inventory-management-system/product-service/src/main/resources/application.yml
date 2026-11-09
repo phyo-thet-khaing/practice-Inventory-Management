@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: product-service
+
+  config:
+    import: optional:configserver:http://localhost:8888
+
+#  ai:
+#    openai:
+#      base-url: https://openrouter.ai/api
+#      api-key: ${OPENROUTER_API_KEY}
+#      chat:
+#        completions-path: /v1/chat/completions
+#        options:
+#          model: nvidia/nemotron-3-ultra-550b-a55b:free

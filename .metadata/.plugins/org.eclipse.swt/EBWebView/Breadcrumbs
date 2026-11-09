@@ -1,0 +1,70 @@
+3:16:55 Tab2 RenderProcessGone
+3:16:55 Microsoft.UnloadController.ClearUnloadState
+3:16:55 Microsoft.Shutdown.TabStripModel.RunUnloadListenerBeforeClosing_false
+3:16:55 Microsoft.Shutdown.TabStripModel.InternalCloseTabsImpl_ClosedAll
+3:16:55 Microsoft.Shutdown.TabStripModel.SendDetachWebContentsNotifications
+3:16:55 Microsoft.UnloadController.ClearUnloadState
+3:16:55 Browser2 Close Tab2 at 0
+3:16:55 Tab2 WebContentsDestroyed
+3:16:55 Microsoft.Shutdown.OnWindowClosing
+3:16:55 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
+3:16:55 Microsoft.UnloadController.HasCompletedUnloadProcessing_True
+3:16:55 Microsoft.Shutdown.OnWindowClosing_MaybeClearBrowsingDataOnExit
+3:16:55 Microsoft.Shutdown.OnWindowClosing_ClearBrowsingDataOnExitNotInProgress
+3:16:55 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+3:16:55 Widget Closed: WebView2MinimalFrame
+3:16:55 Microsoft.UnloadController.TabStripEmpty
+3:16:55 Widget Closed: WebView2MinimalFrame
+3:16:55 Microsoft.UnloadController.HasCompletedUnloadProcessing_True
+3:16:55 Microsoft.Shutdown.OnWindowClosing
+3:16:55 Microsoft.Shutdown.OnWindowClosing_DeleteScheduled
+3:16:55 Microsoft.Browser_Removed
+3:16:55 Widget Closed: WebView2MinimalFrame
+3:16:55 Microsoft.BrowserList.AddBrowser
+3:16:55 Browser3 Insert active Tab3 at 0
+3:16:55 Tab3 StartNav4 #auto_toplevel
+3:16:55 Tab3 StartNav5 #typed
+3:16:55 Tab3 FinishNav4
+3:16:55 Tab3 PageLoad
+3:16:55 Tab3 FinishNav5
+3:16:55 Tab3 PageLoad
+3:16:59 Tab3 StartNav6 #typed
+3:16:59 Tab3 FinishNav6
+3:16:59 Tab3 PageLoad
+3:17:43 Tab3 StartNav7 #typed
+3:17:43 Tab3 FinishNav7
+3:17:43 Tab3 PageLoad
+3:17:47 Tab3 StartNav8 #typed
+3:17:47 Tab3 FinishNav8
+3:17:47 Tab3 PageLoad
+3:17:52 Tab3 StartNav9 #typed
+3:17:52 Tab3 FinishNav9
+3:17:52 Tab3 PageLoad
+3:18:06 Tab3 StartNav10 #typed
+3:18:06 Tab3 FinishNav10
+3:18:06 Tab3 PageLoad
+3:18:18 Tab3 StartNav11 #typed
+3:18:18 Tab3 FinishNav11
+3:18:18 Tab3 PageLoad
+3:18:19 Tab3 StartNav12 #typed
+3:18:19 Tab3 FinishNav12
+3:18:19 Tab3 PageLoad
+3:18:24 Tab3 StartNav13 #typed
+3:18:24 Tab3 FinishNav13
+3:18:24 Tab3 PageLoad
+3:19:37 Tab3 StartNav14 #typed
+3:19:37 Tab3 FinishNav14
+3:19:37 Tab3 PageLoad
+3:19:39 Tab3 StartNav15 #typed
+3:19:39 Tab3 FinishNav15
+3:19:39 Tab3 PageLoad
+3:19:40 Tab3 StartNav16 #typed
+3:19:40 Tab3 FinishNav16
+3:19:40 Tab3 PageLoad
+3:19:41 Tab3 StartNav17 #typed
+3:19:41 Tab3 FinishNav17
+3:19:41 Tab3 PageLoad
+3:20:06 Tab3 StartNav18 #typed
+3:20:06 Tab3 FinishNav18
+3:20:06 Tab3 PageLoad
+3:33:54 Microsoft.Shutdown.OnWindowClosing

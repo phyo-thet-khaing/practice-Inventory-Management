@@ -1,0 +1,5 @@
+ALTER TABLE users
+ADD COLUMN must_change_password BOOLEAN NOT NULL DEFAULT TRUE;
+
+ALTER TABLE users
+ADD COLUMN last_login_at TIMESTAMP NULL;

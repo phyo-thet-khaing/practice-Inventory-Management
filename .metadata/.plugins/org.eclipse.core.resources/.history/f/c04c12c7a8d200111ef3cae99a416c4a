@@ -1,0 +1,5 @@
+package com.ptk.demo.config;
+
+public class WebConfig {
+
+}
